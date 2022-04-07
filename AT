@@ -2,10 +2,10 @@
 "Version": "2.0.0",
   "ReleaseNotes": "CONFIGURAÇÕES DAS OPERADORAS CORRIGIDAS",
   "UrlUpdate": "https://github.com/faelcarol/vip-internet/AT",
-  "Sms": "https://raw.githubusercontent.com/Claudia3333iy/atualizacao/main/notificacao",
-  "EmailFeedback": "@gmail.com",
-  "UrlContato": "https://t.me/NETOLLY",
-  "UrlTermos": "https://raw.githubusercontent.com/Claudia3333iy/atualizacao/main/termosdeuso.html",
+  "Sms": "https://github.com/faelcarol/vip-internet/NOT",
+  "EmailFeedback": "lojarcarol@gmail.com@gmail.com",
+  "UrlContato": "https://t.me/faelcnt",
+  "UrlTermos": "https://github.com/faelcarol/vip-internet/TERM",
   "Udp": [
     {
       "Porta": "7100"
@@ -28,7 +28,7 @@
       "Name": "SERVIDOR (BR01)",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "proxy.matheus22.tk",
+      "ServerIP": "s1.ceoapps.com.br",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
