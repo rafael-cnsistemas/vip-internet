@@ -1,11 +1,11 @@
 {
 "Version": "2.0.0",
   "ReleaseNotes": "CONFIGURAÇÕES DAS OPERADORAS CORRIGIDAS",
-  "UrlUpdate": "https://github.com/faelcarol/vip-internet/AT",
-  "Sms": "https://github.com/faelcarol/vip-internet/NOT",
+  "UrlUpdate": "https://github.com/faelcarol/vip-internet/main/AT",
+  "Sms": "https://github.com/faelcarol/vip-internet/main/NOT",
   "EmailFeedback": "lojarcarol@gmail.com@gmail.com",
   "UrlContato": "https://t.me/faelcnt",
-  "UrlTermos": "https://github.com/faelcarol/vip-internet/TERM",
+  "UrlTermos": "https://github.com/faelcarol/vip-internet/main/TERM",
   "Udp": [
     {
       "Porta": "7100"
