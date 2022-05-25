@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.1",
+  "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "hsttps://paste.anasor.com/paste.php?raw&id=9569",
-  "Sms": "htstps://paste.anasor.com/paste.php?raw&id=8656",
-  "EmailFeedback": "apolossh@gmail.com",
-  "UrlContato": "htstps://t.me/apolo_vx",
-  "UrlTermos": "hsttps://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
+  "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
+  "EmailFeedback": "lojarcarol@gmail.com",
+  "UrlContato": "https://wa.me/5535991060321?text=Queria+suporte+sobre+o+app.",
+  "UrlTermos": "https",
   "CheckUser": "false",
   "Udp": [
     {
@@ -14,7 +14,7 @@
   ],
   "Servers": [
     {
-      "Name": "SERVIDOR",
+      "Name": "CNT VPN GAMER",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "s1.ceoapps.com.br",
