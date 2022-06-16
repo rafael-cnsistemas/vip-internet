@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.50",
-  "ReleaseNotes": "🚀NOVAS CONFIGURAÇÕES🚀",
-  "UrlUpdate": "https://paste.anasor.com/paste.php?raw&id=11891",
-  "Sms": "https://paste.anasor.com/paste.php?raw&id=9047",
-  "EmailFeedback": "canalminerdso@gmail.com",
-  "UrlContato": "https://t.me/batmonn",
-  "UrlTermos": "",
-  "CheckUser": "true",
+  "Version": "1.0.9",
+  "ReleaseNotes": "Nova Atualização Disponível",
+  "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
+  "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
+  "EmailFeedback": "lojarcarol@gmail.com",
+  "UrlContato": "https://wa.me/5535991060321?text=Queria+suporte+sobre+o+app.",
+  "UrlTermos": "https",
+  "CheckUser": "false",
     "Udp": [
     {
       "Porta": "7100"
