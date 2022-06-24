@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.21",
+  "Version": "1.0.22",
   "ReleaseNotes": "Brother Atualização Disponível VIVO e OI 24/06/2022 12:30",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATPOLLA",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSPOLLA",
@@ -22,6 +22,19 @@
      }
    ],
   "Servers": [
+    {
+      "Name": "BROTHER VPN",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "polla.tigrao357.online",
+      "CheckUser": "https",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks":[
    {
       "Name": "TIM 1",
       "FLAG": "tim",
