@@ -1,0 +1,259 @@
+{
+ "Version": "1.0.28",
+ "ReleaseNotes": "Nova Atualização 🟣🟣VIVO🟣🟣 Show!",
+ "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL1",
+ "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL1",
+ "EmailFeedback": "lojarcarol@gmail.com",
+ "UrlContato": "https://wa.me/5535991060321?text=Queria+suporte+sobre+o+app.",
+ "UrlTermos": "https",
+ "CheckUser": "false",
+ "Udp": [
+  {
+   "Porta": "7100"
+  },
+  {
+   "Porta": "7200"
+  },
+  {
+   "Porta": "7300"
+  },
+  {
+   "Porta": "7400"
+  }
+ ],
+ "Servers": [
+  {
+   "Name": "TOP NET",
+   "TYPE": "premium",
+   "FLAG": "br.png",
+   "ServerIP": "dominio.rochanet.online",
+   "CheckUser": "https",
+   "ServerPort": "22",
+   "SSLPort": "443",
+   "USER": "",
+   "PASS": ""
+  }
+ ],
+ "Networks": [
+  {
+   "Name": "TIM [SSL 1] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://cloud.mail.c6bank.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "cloud.mail.c6bank.com.br",
+   "TlsIP": "cloud.mail.c6bank.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 2] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "static.r4you.co",
+   "TlsIP": "104.26.5.175",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 3] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://auth.of.c6bank.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "auth.of.c6bank.com.br",
+   "TlsIP": "auth.of.c6bank.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 4] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://ajuda.c6bank.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "ajuda.c6bank.com.br",
+   "TlsIP": "ajuda.c6bank.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 5] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://bobcontents.bennuapp.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "bobcontents.bennuapp.com.br",
+   "TlsIP": "bobcontents.bennuapp.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 6] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://m.timbancavirtual.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "m.timbancavirtual.com.br",
+   "TlsIP": "m.timbancavirtual.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 7] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "static.r4you.co",
+   "TlsIP": "104.26.5.175",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "TIM [SSL 8] 🔵",
+   "FLAG": "tim",
+   "Payload": "GET ws://cdn.c6bank.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "cdn.c6bank.com.br",
+   "TlsIP": "cdn.c6bank.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "🔵TIM (BETA)",
+   "FLAG": "tim",
+   "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "static.r4you.co",
+   "TlsIP": "104.26.5.175",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "🟣VIVO 1🟣",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "live.vivo.com.br",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "🟣VIVO 2🟣",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "recarga.vivo.com.br",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "🟣VIVO 3🟣",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "planosvivointernet.com.br",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "🟣VIVO 4🟣",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "accounts.descomplica.com.br",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "🟣VIVO 5🟣",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: d3a14lgvtafgli.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "mobile.mercadolibre.com",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "CLARO TURBO 1 🔴",
+   "FLAG": "claro",
+   "Payload": "GET wss://1674401.mediaspace.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "1674401.mediaspace.kaltura.com",
+   "TlsIP": "1674401.mediaspace.kaltura.com",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "️CLARO TURBO 2 🔴",
+   "FLAG": "claro",
+   "Payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "communitystaging.kaltura.com",
+   "TlsIP": "communitystaging.kaltura.com",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "️CLARO TURBO 3 🔴",
+   "FLAG": "claro",
+   "Payload": "GET wss://site.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "site.kaltura.com",
+   "TlsIP": "site.kaltura.com",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "️CLARO TURBO 4 🔴",
+   "FLAG": "claro",
+   "Payload": "GET wss://blog.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "blog.kaltura.com",
+   "TlsIP": "blog.kaltura.com",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "OI [SSL 2]",
+   "FLAG": "oi",
+   "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+   "SNI": "www.hbogo.com.br",
+   "TlsIP": "104.16.53.91",
+   "ProxyIP": "",
+   "ProxyPort": "",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "OI [PROXY 3]",
+   "FLAG": "oi",
+   "Payload": "GET / HTTP/1.3[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "oii.gdmhost.ga",
+   "TlsIP": "oii.gdmhost.ga",
+   "ProxyIP": "oii.gdmhost.ga",
+   "ProxyPort": "80",
+   "Info": "proxy"
+  },
+  {
+   "Name": "OI [PROXY 4]",
+   "FLAG": "oi",
+   "Payload": "GET / HTTP/1.3[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "oii.gdmhost.ga",
+   "TlsIP": "oii.gdmhost.ga",
+   "ProxyIP": "oii.gdmhost.ga",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  },
+  {
+   "Name": "OI [PROXY 5]",
+   "FLAG": "oi",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "[app_host]",
+   "TlsIP": "104.16.51.91",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  }
+ ]
+}
