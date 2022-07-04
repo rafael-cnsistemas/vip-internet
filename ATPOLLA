@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.40",
-  "ReleaseNotes": "Brother Atualização VIVO 04/07/2022 20:10",
+  "Version": "1.0.44",
+  "ReleaseNotes": "Brother Atualização VIVO 04/07/2022 20:05",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATPOLLA",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSPOLLA",
   "EmailFeedback": "",
@@ -242,7 +242,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyIP": "13.227.126.60",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
@@ -252,7 +252,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "accounts.descomplica.com.br",
+      "ProxyIP": "13.227.126.56",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
@@ -262,7 +262,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "mobile.mercadolibre.com",
+      "ProxyIP": "52.85.213.82",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
