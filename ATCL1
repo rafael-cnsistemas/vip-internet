@@ -1,6 +1,6 @@
 {
- "Version": "1.0.34",
- "ReleaseNotes": "Nova Atualização VIVO !",
+ "Version": "1.0.36",
+ "ReleaseNotes": "Nova Atualização VIVO!",
  "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL1",
  "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL1",
  "EmailFeedback": "lojarcarol@gmail.com",
@@ -191,7 +191,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.156.83.74",
+      "ProxyIP": "live.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
@@ -201,7 +201,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.79",
+      "ProxyIP": "recarga.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
@@ -211,7 +211,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.60",
+      "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
@@ -221,7 +221,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.56",
+      "ProxyIP": "developers.mercadolivre.com",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
@@ -231,7 +231,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: d3b8tftozccnpp.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "52.85.213.82",
+      "ProxyIP": "reviews.submarino.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
       },
