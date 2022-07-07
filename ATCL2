@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.28",
+  "Version": "1.0.29",
   "ReleaseNotes": "Nova Atualização VIVO 06/07/2022",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL2",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
@@ -27,56 +27,6 @@
     },
   ],
   "Networks": [
-    {
-      "Name": "🟣VIVO 1🟣",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.156.83.74",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-      },
-    {
-      "Name": "🟣VIVO 2🟣",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.126.79",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-      },
-     {
-      "Name": "🟣VIVO 3🟣",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.126.60",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-      },
-     {
-      "Name": "🟣VIVO 4🟣",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "13.227.126.56",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-      },
-    {
-      "Name": "🟣VIVO 5🟣",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d2qevofkku4y2h.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "52.85.213.82",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-      },
      {
        "Name": "VIVO PROXY 1",
        "FLAG": "vivo",
