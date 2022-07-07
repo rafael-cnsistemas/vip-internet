@@ -21,7 +21,19 @@
       "Porta": "7400"
      }
    ],
-  "Servers": [
+  "Servers": [    
+{
+      "Name": "CNT ILIMITADA",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "s1.ceoapps.com.br",
+      "CheckUser": "https",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
     {
       "Name": "🟣VIVO 1🟣",
       "FLAG": "vivo",
