@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.23",
+  "Version": "1.0.24",
    "ReleaseNotes": "Vivo mais uma atualização. Lembrando vocês clientes que a culpa não é nossa , a rede das operadoras esta com grande instabilidade! Obrigado pela compreensão!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL4",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL4",
@@ -120,7 +120,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://rapehun.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "rapehun.com",
-      "TlsIP": "rapehun.com",
+      "TlsIP": "104.21.11.51",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -400,7 +400,7 @@
       "FLAG": "tim",
       "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "static.r4you.co",
-      "TlsIP": "static.r4you.co",
+      "TlsIP": "104.26.4.175",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -460,7 +460,7 @@
       "FLAG": "tim.png",
       "Payload": "GET wss://blog.alura.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "blog.alura.com.br",
-      "TlsIP": "blog.alura.com.br",
+      "TlsIP": "104.21.84.78",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -470,7 +470,7 @@
       "FLAG": "Claro",
       "Payload": "GET wss://connect.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "connect.kaltura.com",
-      "TlsIP": "connect.kaltura.com",
+      "TlsIP": "162.159.134.42",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -480,7 +480,7 @@
       "FLAG": "claro",
       "Payload": "GET wss://videos.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "videos.kaltura.com",
-      "TlsIP": "videos.kaltura.com",
+      "TlsIP": "162.159.135.91",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -490,7 +490,7 @@
       "FLAG": "claro",
       "Payload": "GET ws://content.akross.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "content.akross.com.br",
-      "TlsIP": "content.akross.com.br",
+      "TlsIP": "189.23.51.10",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -500,7 +500,7 @@
       "FLAG": "claro",
       "Payload": "GET ssl://api.new.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "api.new.livestream.com",
-      "TlsIP": "api.new.livestream.com",
+      "TlsIP": "162.159.137.60",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -510,7 +510,7 @@
       "FLAG": "claro",
       "Payload": "GET ssl://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "icanhazip.com",
-      "TlsIP": "icanhazip.com",
+      "TlsIP": "104.18.114.97",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -520,7 +520,7 @@
       "FLAG": "claro",
       "Payload": "GET ssl://ct.livestream.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "ct.livestream.com",
-      "TlsIP": "ct.livestream.com",
+      "TlsIP": "104.17.74.206",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
@@ -530,7 +530,7 @@
       "FLAG": "claro",
       "Payload": "GET communitystaging.kaltura.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "communitystaging.kaltura.com",
-      "TlsIP": "communitystaging.kaltura.com",
+      "TlsIP": "162.159.138.78",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
