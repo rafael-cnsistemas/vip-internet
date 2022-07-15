@@ -1,8 +1,8 @@
 {
   "Version": "1.0.32",
   "ReleaseNotes": "Devido às constantesmudanças na operadora Vivo, mais uma atualização!",
-  "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
-  "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
+  "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL2",
+  "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
   "EmailFeedback": "lojarcarol@gmail.com",
   "UrlContato": "https://wa.me/5535991060321?text=Queria+suporte+sobre+o+app.",
   "UrlTermos": "https",
