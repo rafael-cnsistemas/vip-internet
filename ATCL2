@@ -1,40 +1,40 @@
 {
- "Version": "1.0.32",
- "ReleaseNotes": "Devido a várias mudançasda operadora Vivo... Mais uma atualização!",
- "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL1",
- "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL1",
- "EmailFeedback": "lojarcarol@gmail.com",
- "UrlContato": "https://wa.me/5535991060321?text=Queria+suporte+sobre+o+app.",
- "UrlTermos": "https",
- "CheckUser": "false",
- "Udp": [
-  {
-   "Porta": "7100"
-  },
-  {
-   "Porta": "7200"
-  },
-  {
-   "Porta": "7300"
-  },
-  {
-   "Porta": "7400"
-  }
- ],
- "Servers": [
-  {
-   "Name": "TOP NET",
-   "TYPE": "premium",
-   "FLAG": "br.png",
-   "ServerIP": "netbr.sshlinksv1.xyz",
-   "CheckUser": "http://netbr.sshlinksv1.xyz:5454/checkUser",
-   "ServerPort": "22",
-   "SSLPort": "443",
-   "USER": "",
-   "PASS": ""
-  }
- ],
- "Networks": [
+  "Version": "1.0.32",
+  "ReleaseNotes": "Devido às constantesmudanças na operadora Vivo, mais uma atualização!",
+  "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
+  "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
+  "EmailFeedback": "lojarcarol@gmail.com",
+  "UrlContato": "https://wa.me/5535991060321?text=Queria+suporte+sobre+o+app.",
+  "UrlTermos": "https",
+  "CheckUser": "false",
+    "Udp": [
+    {
+      "Porta": "7100"
+     },
+   {
+      "Porta": "7200"
+     },
+ {
+      "Porta": "7300"
+     },
+ {
+      "Porta": "7400"
+     }
+   ],
+  "Servers": [    
+      {
+      "Name": "XOROPE PREMIUM",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "netbr.sshlinksv1.xyz",
+      "CheckUser": "http://netbr.sshlinksv1.xyz:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+ "Networks":[   
     {
       "Name": "╰┈[☞>📱𝗩𝗜𝗩𝗢 𝟱𝗚 𝟬𝟭 📡 🟢",
       "FLAG": "vivo",
@@ -605,6 +605,6 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
     }
-      
  ]
+      
 }
