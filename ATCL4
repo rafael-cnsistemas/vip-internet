@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.12",
+  "Version": "1.1.13",
    "ReleaseNotes": "BEM VINDO AO CRONOS! NOVA ATUALIZAÇÃO DISPONÍVEL!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL4",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL4",
@@ -165,6 +165,36 @@
       "ProxyPort": "",
       "Info": "Tlsws"
       },
+      {
+      "Name": "❤️CLARO 1",
+      "FLAG": "claro",
+      "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]",
+      "SNI": "4.icanhazip.com",
+      "TlsIP": "4.icanhazip.com",
+      "ProxyIP": "4.icanhazip.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "❤️CLARO 2",
+      "FLAG": "claro",
+      "Payload": "GET wss://www.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.icanhazip.com",
+      "TlsIP": "www.icanhazip.com",
+      "ProxyIP": "www.icanhazip.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "❤️CLARO 3",
+      "FLAG": "claro",
+      "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "ipv4.icanhazip.com",
+      "TlsIP": "ipv4.icanhazip.com",
+      "ProxyIP": "ipv4.icanhazip.com",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
       {
       "Name": "📲 OI - [SSL 1]",
       "FLAG": "oi",
