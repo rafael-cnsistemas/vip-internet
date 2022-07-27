@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.72",
   "ReleaseNotes": "Todas Operadoras!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL2",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
@@ -23,10 +23,21 @@
    ],
   "Servers": [   
     {
-      "Name": "XOROPE NOVO",
+      "Name": "XOROPE 1",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "s2.topvps.online",
+      "CheckUser": "http://netbr.sshlinksv1.xyz:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "XOROPE 2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "s1.topvps.online",
       "CheckUser": "http://netbr.sshlinksv1.xyz:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
