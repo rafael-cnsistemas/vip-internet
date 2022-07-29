@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.79",
+  "Version": "1.0.80",
    "ReleaseNotes": "BEM VINDO A CNT-ILIMITADA! NOVA ATUALIZAÇÃO DISPONÍVEL!!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
@@ -44,6 +44,16 @@
    "ProxyIP": "",
    "ProxyPort": "",
    "Info": "Tlsws"
+  },
+  {
+    "Name": "💎 ViVo DDDs OFF 💎",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: qpt0zw4c45.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "qpt0zw4c45.map.azionedge.net",
+    "ProxyPort": "80",
+    "Info": "Proxy"
   },
   {
     "Name": "💎 VIVO - [OK]",
