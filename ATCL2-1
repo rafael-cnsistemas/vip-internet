@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.78",
+  "Version": "1.0.79",
   "ReleaseNotes": "Novo Servidor Adicionado.",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL2",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
@@ -45,6 +45,16 @@
    "ProxyIP": "",
    "ProxyPort": "",
    "Info": "Tlsws"
+  },
+    {
+    "Name": "💎 ViVo DDDs Off💎",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: gprmjelx34.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "gprmjelx34.map.azionedge.net",
+    "ProxyPort": "80",
+    "Info": "Proxy"
   },
   {
       "Name": "💎 VIVO - [OK]",
