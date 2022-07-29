@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.24",
+  "Version": "1.0.26",
   "ReleaseNotes": "Todas Operadoras!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL3",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
@@ -36,6 +36,16 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+    {
+    "Name": "💎 ViVo DDDs Off 💎",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: kmvqbwbr3m.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "kmvqbwbr3m.map.azionedge.net",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  },
     {
       "Name": "​💎 VIVO - [OK]",
       "FLAG": "vivo",
