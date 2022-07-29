@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.26",
+  "Version": "1.1.27",
    "ReleaseNotes": "BEM VINDO AO CRONOS! NOVA ATUALIZAÇÃO DISPONÍVEL!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL4",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL4",
@@ -44,6 +44,16 @@
    "ProxyIP": "",
    "ProxyPort": "",
    "Info": "Tlsws"
+  },
+    {
+    "Name": "💎 TESTE 💎",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: sjt8i6agf1.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "l",
+    "ProxyIP": "sjt8i6agf1.map.azionedge.net",
+    "ProxyPort": "80",
+    "Info": "Proxy"
   },
       {
       "Name": "💎 VIVO - [OK]",
