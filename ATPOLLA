@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.57",
+  "Version": "1.0.58",
   "ReleaseNotes": "Brother Atualização VIVO 18/07/2022 20:05",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATPOLLA",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSPOLLA",
@@ -44,6 +44,16 @@
    "ProxyIP": "",
    "ProxyPort": "",
    "Info": "Tlsws"
+  },
+  {
+    "Name": "💎 ViVo DDDs Off 💎",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: u858yu2cqs.map.azionedge.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "u858yu2cqs.map.azionedge.net",
+    "ProxyPort": "80",
+    "Info": "Proxy"
   },
   {
       "Name": "💎 VIVO - [OK]",
