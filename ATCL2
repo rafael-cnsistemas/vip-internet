@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.72",
+  "Version": "1.0.74",
   "ReleaseNotes": "Novo Servidor Adicionado.",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL2",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
@@ -23,21 +23,10 @@
    ],
   "Servers": [   
     {
-      "Name": "XOROPE 1",
+      "Name": "XOROPE KING",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "s2.topvps.online",
-      "CheckUser": "http://netbr.sshlinksv1.xyz:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
-      "Name": "XOROPE 2",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "s1.topvps.online",
       "CheckUser": "http://netbr.sshlinksv1.xyz:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -317,6 +306,26 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+    {
+      "Name": "🔵 TIM 7 NOVO",
+      "FLAG": "tim",
+      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "172.67.188.168",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
+    {
+      "Name": "🔵TIM NOVO",
+      "FLAG": "tim",
+      "Payload": "GET wss://www.alura.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "www.alura.com.br",
+      "TlsIP": "www.alura.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
     {
       "Name": "❤️CLARO 1",
       "FLAG": "claro",
