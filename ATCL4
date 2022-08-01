@@ -46,7 +46,7 @@
    "Info": "Tlsws"
   },
   {
-  Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
+    "Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
     "FLAG": "vivo",
     "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
     "SNI": "",
