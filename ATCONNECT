@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.0.92",
    "ReleaseNotes": "BEM VINDO A CNT-ILIMITADA! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
@@ -45,38 +45,47 @@
    "ProxyPort": "",
    "Info": "Tlsws"
   },
-  {
-      "Name": "💚VIVO 1 NOVA💚 ",
+  {Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "104.18.7.80",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+      },
+     {
+      "Name": "💜 VIVO 1",
       "FLAG": "vivo",
-      "Payload": "GET wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "www.vivorio.com.br",
-      "TlsIP": "172.67.165.43",
+      "Payload": "GET wss://digeverse.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "digeverse.com",
+      "TlsIP": "104.21.11.51",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
     {
-      "Name": "💚Vivo 2 NOVA💚", 
-      "FLAG": "vivo", 
-      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
-      "SNI": "support.deezer.com", 
-      "TlsIP": "172.67.165.43", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Tlsws"
-    },
-    {
-      "Name": "💚VIVO 3 NOVA💚 ",
+      "Name": "💜 VIVO 2",
       "FLAG": "vivo",
-      "Payload": "GET wss://onepiece.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "onepiece.com",
-      "TlsIP": "104.21.11.51",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
+      "Payload": "GET /? HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "172.67.165.43",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+   },
+ {
+"Name": "💜 VIVO 3",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "[app_host]",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+},
     {
-      "Name": "💜VIVO 1 NOVA💜 ",
+      "Name": "💜 VIVO 4",
       "FLAG": "vivo",
       "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "equipamentos01.vivo.com.br",
@@ -86,9 +95,9 @@
       "Info": "Tlsws"
    },
     {
-     "Name": "💜VIVO 2 NOVA💜 ",
-     "FLAG": "vivo",
-     "Payload": "GET wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Name": "💜 VIVO 5",
+      "FLAG": "vivo",
+      "Payload": "GET wss://www.vivorio.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "www.vivorio.com.br",
       "TlsIP": "172.67.165.43",
       "ProxyIP": "",
@@ -96,7 +105,7 @@
       "Info": "Tlsws"
    },
     {
-      "Name": "💜VIVO 3 NOVA💜 ",
+      "Name": "💜 VIVO 6",
       "FLAG": "vivo",
       "Payload": "GET wss://backoffice-equipamentos01.vivo.com.br// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "backoffice-equipamentos01.vivo.com.br",
@@ -105,8 +114,18 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+    {
+      "Name": "💜 VIVO 7",
+      "FLAG": "vivo",
+      "Payload": "GET wss://portaljud.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "portaljud.vivo.com.br",
+      "TlsIP": "104.21.11.51",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+   },
     { 
-      "Name": "💜VIVO 4 NOVA💜 ", 
+      "Name": "💜 VIVO 9", 
       "FLAG": "vivo", 
       "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
       "SNI": "support.deezer.com", 
@@ -115,16 +134,6 @@
       "ProxyPort": "443", 
       "Info": "Tlsws" 
    },
-    { 
-      "Name": "💜VIVO 5 NOVA💜 ", 
-      "FLAG": "vivo", 
-      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
-      "SNI": "support.deezer.com", 
-      "TlsIP": "172.67.165.43", 
-      "ProxyIP": "", 
-      "ProxyPort": "443", 
-      "Info": "Tlsws" 
-    },
        {
      "Name": "╰┈[☞>📱TIM 5G 01 📡 🔵",
        "FLAG": "tim",
