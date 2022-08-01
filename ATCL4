@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.41",
+  "Version": "1.1.42",
    "ReleaseNotes": "BEM VINDO AO CRONOS! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL4",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL4",
@@ -45,6 +45,7 @@
    "ProxyPort": "",
    "Info": "Tlsws"
   },
+  {
   Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
     "FLAG": "vivo",
     "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
