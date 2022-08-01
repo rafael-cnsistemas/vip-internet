@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.32",
+  "Version": "1.1.34",
    "ReleaseNotes": "BEM VINDO AO CRONOS! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL4",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL4",
@@ -45,6 +45,16 @@
    "ProxyPort": "",
    "Info": "Tlsws"
   },
+  {
+      "Name": "💎 TESTE 💎",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[lf]Host:dwl8fgyolyqvj.cloudfront.net[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]",
+      "SNI": "dwl8fgyolyqvj.cloudfront.net",
+      "TlsIP": "dwl8fgyolyqvj.cloudfront.net",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+      },
    
       {
       "Name": "💎 VIVO - [OK]",
