@@ -1,5 +1,5 @@
 {
-  "Version": "1.1.45",
+  "Version": "1.1.46",
    "ReleaseNotes": "BEM VINDO AO CRONOS! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL4",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL4",
@@ -135,6 +135,46 @@
       "ProxyPort": "443",
       "Info": "Tlsws"
    },
+   {
+      "Name": "💎 VIVO Turbo-Easy 1 💎",
+      "FLAG": "vivo.png",
+      "Payload": "GET wss://zap.vivo.com.br/ HTTP/1.1[crlf]Host: s1.betarello.app.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.67.165.43",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+          },
+	  {
+      "Name": "💎 VIVO Turbo-Easy 2",
+      "FLAG": "vivo.png",
+      "Payload": "GET wss://zap.vivo.com.br/ HTTP/1.1[crlf]Host: s1.betarello.app.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+      },
+      {
+      "Name": "​💎 VIVO EASY 💎",
+      "FLAG": "vivo",
+      "Payload": "GET wss://zap.vivo.com.br/ HTTP/1.1[crlf]Host: s1.betarello.app.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "104.21.11.51",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+      },
+      {
+      "Name": "​💎 VIVO EASY 1",
+      "FLAG": "vivo",
+      "Payload": "GET wss://104.18.7.80/ HTTP/1.1[crlf]Host: s1.betarello.app.br[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "172.67.201.105",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+      },
    {
   "Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
     "FLAG": "vivo",
