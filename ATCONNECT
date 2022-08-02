@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.96",
+  "Version": "1.0.97",
    "ReleaseNotes": "BEM VINDO A CNT-ILIMITADA! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
@@ -52,6 +52,16 @@
 "SNI": "", 
 "TlsIP": "", 
 "ProxyIP": "planosvivointernet.com.br", 
+"ProxyPort": "80", 
+"Info": "Proxy"
+},
+{
+"Name": "🟣VIVO NOVO 2", 
+"FLAG": "vivo", 
+"Payload": "GET / HTTP/1.1[crlf]Host: r484o54092ep1696k2.agilewingcdn.com [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]][crlf][crlf]", 
+"SNI": "", 
+"TlsIP": "", 
+"ProxyIP": "recarga.vivo.com.br", 
 "ProxyPort": "80", 
 "Info": "Proxy"
 },
