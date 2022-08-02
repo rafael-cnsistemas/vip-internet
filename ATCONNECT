@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.97",
+  "Version": "1.1.0",
    "ReleaseNotes": "BEM VINDO A CNT-ILIMITADA! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
@@ -46,25 +46,118 @@
    "Info": "Tlsws"
   },
   {
-"Name": "🟣VIVO NOVO", 
-"FLAG": "vivo", 
-"Payload": "GET / HTTP/1.1[crlf]Host: r484o54092ep1696k2.agilewingcdn.com [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
-"SNI": "", 
-"TlsIP": "", 
-"ProxyIP": "planosvivointernet.com.br", 
-"ProxyPort": "80", 
-"Info": "Proxy"
-},
+      "Name": "💚VIVO 01",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:r484o54092ep1696k2.agilewingcdn.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "live.vivo.com.br",
+      "ProxyIP": "live.vivo.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
 {
-"Name": "🟣VIVO NOVO 2", 
-"FLAG": "vivo", 
-"Payload": "GET / HTTP/1.1[crlf]Host: r484o54092ep1696k2.agilewingcdn.com [crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]][crlf][crlf]", 
-"SNI": "", 
-"TlsIP": "", 
-"ProxyIP": "recarga.vivo.com.br", 
-"ProxyPort": "80", 
-"Info": "Proxy"
-},
+      "Name": "💚VIVO 02 [01]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:r484o54092ep1696k2.agilewingcdn.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "13.35.118.37",
+      "ProxyIP": "13.35.118.37",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💚VIVO 02 [02]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:r484o54092ep1696k2.agilewingcdn.com [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "planosvivointernet.com.br",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💚VIVO 06 [NOVO]",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:1631i5e46o25pt2169.agilewingcdn.com[crlf]Upgrade: Websocket[crlfConnection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "13.35.118.37",
+      "ProxyIP": "13.35.118.37",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+{
+      "Name": "💚VIVO 07",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:1631i5e46o25pt2169.agilewingcdn.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💚VIVO 08",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:1631i5e46o25pt2169.agilewingcdn.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "planosvivointernet.com.br",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+{
+      "Name": "💚VIVO 09",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:1631i5e46o25pt2169.agilewingcdn.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "cdnssl.clicktale.net",
+      "ProxyIP": "cdnssl.clicktale.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+{
+      "Name": "💚VIVO 10",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:u1d9685302h65v69z1.agilewingcdn.com[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "13.35.118.37",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+ {
+      "Name": "💚VIVO 11",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:u1d9685302h65v69z1.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "planosvivointernet.com.br",
+      "ProxyIP": "planosvivointernet.com.br",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+ {
+      "Name": "💚VIVO 12",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:u1d9685302h65v69z1.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "13.35.118.37",
+      "ProxyIP": "13.35.118.37",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+
+ {
+      "Name": "💚VIVO 13",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host:u1d9685302h65v69z1.agilewingcdn.com[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "cdnssl.clicktale.net",
+      "ProxyIP": "cdnssl.clicktale.net",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
   {
     "Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
     "FLAG": "vivo",
