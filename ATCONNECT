@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.92",
+  "Version": "1.0.94",
    "ReleaseNotes": "BEM VINDO A CNT-ILIMITADA! ATUALIZAÇÃO OBRIGATÓRIA ATRAVÉS DO SINAL WI-FI.CASO NÃO ATUALIZE SUA CONEXÃO SERÁ PERDIDA!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCONNECT",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCONNECT",
@@ -45,6 +45,16 @@
    "ProxyPort": "",
    "Info": "Tlsws"
   },
+  {
+Name": "🟣VIVO NOVO", 
+"FLAG": "vivo", 
+"Payload": "GET / HTTP/1.1[crlf]Host: r484o54092ep1696k2.agilewingcdn.com [crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]", 
+"SNI": "", 
+"TlsIP": "", 
+"ProxyIP": "planosvivointernet.com.br", 
+"ProxyPort": "80", 
+"Info": "Proxy"
+},
   {
     "Name": "╰┈[☞>📱VIVO MODO EASY 📡 🟢",
     "FLAG": "vivo",
