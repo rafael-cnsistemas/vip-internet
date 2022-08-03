@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.28",
+  "Version": "1.0.32",
   "ReleaseNotes": "Todas Operadoras!!!",
   "UrlUpdate": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/ATCL3",
   "Sms": "https://raw.githubusercontent.com/faelcarol/vip-internet/main/SMSCL2",
@@ -36,6 +36,31 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+    {
+
+    "Name": "🟣VIVO🟣 1",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: qzubshtrv3bt.merlincdn.net [crlf]Upgrade: websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "qzubshtrv3bt.merlincdn.net",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  
+  },
+  
+  {
+  
+    "Name": "🟣VIVO🟣 4",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: qzubshtrv3bt.merlincdn.net [crlf]Upgrade: websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "qzubshtrv3bt.merlincdn.net",
+    "ProxyIP": "br10.sshct.online",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+  
+  },
          {
      "Name": "╰┈[☞>📱TIM 5G 01 📡 🔵",
        "FLAG": "tim",
